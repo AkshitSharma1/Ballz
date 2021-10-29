@@ -7,7 +7,7 @@
     </p>
     <p class="c21">
       <h1>
-        <u><span class="c34 c46">&nbsp;Ballz: A project by Akshit Sharma and Stuti Mathur</span></u>
+        <u><span class="c34 c46">&nbsp;Ballz: A game by Akshit Sharma and Stuti Mathur</span></u>
     </p>
     </h1>
     
