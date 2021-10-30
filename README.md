@@ -127,6 +127,13 @@
         that game is over.</span
       >
     </p>
+  
+    <p class="c17">
+      <span class="c39 c34">
+      <br>This game includes a well-implemented debugging functionallity that outputs all the logs to Debug.txt
+      </span
+      >
+    </p>
     
   </body>
 </html>
