@@ -124,16 +124,12 @@
         >The game ends when the ball collides with a falling brick. To check
         whether collision has occurred, we compare the coordinates of the ball
         and brick. If they are equal, we say that a collision has occurred and
-        that game is over.</span
+        that game is over. <br>This game includes a well-implemented debugging functionallity that outputs all the logs to Debug.txt
+      </span</span
       >
     </p>
   
-    <p class="c17">
-      <span class="c39 c34">
-      <br>This game includes a well-implemented debugging functionallity that outputs all the logs to Debug.txt
-      </span
-      >
-    </p>
+   
     
   </body>
 </html>
